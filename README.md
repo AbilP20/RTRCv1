@@ -1,6 +1,7 @@
 
-<h1 align="center">Real Time Roadway Companion v1 (RTRCv1)</h1>
-<img src="https://github.com/AbilP20/RTRCv1/assets/114949809/ed87fa22-4887-4a04-9a47-3b14c4b47bf3" alt="GPLv3 License" width="100"/>
+<h1>Real Time Roadway Companion v1 (RTRCv1)
+<img src="https://github.com/AbilP20/RTRCv1/assets/114949809/ed87fa22-4887-4a04-9a47-3b14c4b47bf3" alt="GPLv3 License" width="90"/>
+</h1>
 <br>
 Real Time Roadway Companion (RTRC) is a real-time computer vision application in road travel assistance domain. 
 It has been implemented using the widely known single-stage detection algorithm - ***YOLO*** , known for it's speed and accuracy. In this project, I have used the YOLOv8 version to train 3 models -
@@ -102,7 +103,7 @@ Measuring the inference speed on RTX 3050, all 3 models combined give an average
 - If current speed is greater than the max speed limit, then 'OVERSPEED' message also is displayed in the HUD
 - The green color speed in HUD indicates current speed and is randomly generated every 3 seconds. It is just for the purpose of showing 'OVERSPEED' message
 
-https://github.com/AbilP20/RTRCv1/assets/114949809/1f558d3f-652f-415b-8cdc-f14ecbc3640a
+https://github.com/AbilP20/RTRCv1/assets/114949809/096ba211-deaa-47e7-b926-e7d37583332b
 
 <br><br>
 
@@ -117,7 +118,6 @@ All the work presented in this repo is written and executed by me, starting from
 ## License
 
 This software is licensed under the GNU General Public License v3.0 (GPLv3). See the `LICENSE` file for more details.
-
 <br><br>
 
 ## Contributions
