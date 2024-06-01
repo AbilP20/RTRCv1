@@ -1,6 +1,6 @@
 
 <h1>Real Time Roadway Companion v1 (RTRCv1)
-<img src="https://github.com/AbilP20/RTRCv1/assets/114949809/ed87fa22-4887-4a04-9a47-3b14c4b47bf3" alt="GPLv3 License" width="70"/>
+<img src="https://github.com/AbilP20/RTRCv1/assets/114949809/ed87fa22-4887-4a04-9a47-3b14c4b47bf3" alt="GPLv3 License" width="75"/>
 </h1>
 <br>
 
