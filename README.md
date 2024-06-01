@@ -1,6 +1,7 @@
 
 <h1 align="center">Real Time Roadway Companion v1 (RTRCv1)</h1>
-
+<img src="https://github.com/AbilP20/RTRCv1/assets/114949809/ed87fa22-4887-4a04-9a47-3b14c4b47bf3" alt="GPLv3 License" width="100"/>
+<br>
 Real Time Roadway Companion (RTRC) is a real-time computer vision application in road travel assistance domain. 
 It has been implemented using the widely known single-stage detection algorithm - ***YOLO*** , known for it's speed and accuracy. In this project, I have used the YOLOv8 version to train 3 models -
 - **Detection model** : aims to detect vehicles and traffic signs (categories of class is displayed in detail in another topic)
@@ -114,6 +115,8 @@ All the work presented in this repo is written and executed by me, starting from
 <br><br>
 
 ## License
+
+This software is licensed under the GNU General Public License v3.0 (GPLv3). See the `LICENSE` file for more details.
 
 <br><br>
 
