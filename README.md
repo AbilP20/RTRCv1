@@ -18,19 +18,19 @@ For training, combination of data from multiple datasets has been used based on 
 
 <strong> Ultralytics</strong>
 <br>
-<img src="git_media/ultral-img.png" alt="Supervision Banner" width="250"/>
+<img src="https://github.com/AbilP20/RTRCv1/assets/114949809/ead2f3e2-cbfb-4620-9cd1-e4a0445f970e" alt="Supervision Banner" width="250"/>
 <br>
 <a href="https://github.com/ultralytics/ultralytics">Ultralytics Github</a> | <a href="https://docs.ultralytics.com/">Ultralytics Website</a>
 <br><br><br>
 <strong>Supervision</strong>
 <br>
-<img src="git_media/superv-img.png" alt="Supervision Banner" width="250"/>
+<img src="https://github.com/AbilP20/RTRCv1/assets/114949809/2791a89c-ab4d-4aef-9842-ed4de7c820d6" alt="Supervision Banner" width="250"/>
 <br>
 <a href="https://github.com/roboflow/supervision">Supervision Github</a> | <a href="https://supervision.roboflow.com/latest/">Supervision Website</a>
 <br><br><br>
 <strong>OpenCV-Python</strong>
 <br>
-<img src="git_media/cv2-img.png" alt="Opencv-Python Banner" width="250"/>
+<img src="https://github.com/AbilP20/RTRCv1/assets/114949809/541ae3d3-6832-4edd-a48a-e207b7db7d5f" alt="Opencv-Python Banner" width="250"/>
 <br><br>
 
 ## Built With
@@ -49,7 +49,8 @@ For training, combination of data from multiple datasets has been used based on 
 The image below shows the classes that will be detected. These specific classes were chosen majorily based on the availabilty of train data and some based on project requirements.<br>
 The top 2 rows of classes in the below image are actual traffic signs that we encounter often. The bottom row classes are custom signs that I have used for the purpose of displaying in the HUD whether the person or vehicle is nearby or in-vicinity. A simple approach approach of relative distance has been utilized to check the nearby or in-vicinity class.
 <br><br>
-<img src="git_media/classes.png" align="center" alt="Classes Image" width="300"/>
+
+<img src="https://github.com/AbilP20/RTRCv1/assets/114949809/f9002607-407a-4be4-b7e8-04e25ef42294" align="center" alt="Classes Image" width="300"/>
 <br><br>
 
 ## Environment Setup
@@ -105,11 +106,15 @@ https://github.com/AbilP20/RTRCv1/assets/114949809/1f558d3f-652f-415b-8cdc-f14ec
 <br><br>
 
 ## Author
-- Abil Pariyath - abilpt@gmail.com
-- [Github](https://github.com/AbilP20)
-- Project - Real Time Roadway Companion v1
+
+- Abil Pariyath - abilpt@gmail.com | [Github Profile](https://github.com/AbilP20)
+- Project - Real Time Roadway Companion v1 | [Github Repo](https://github.com/AbilP20/RTRCv1)
 
 All the work presented in this repo is written and executed by me, starting from data collection from various sources, separating the required data, combining them in similar classes, annotating them, training them, and finally HUD creation. No code has been copied. Due mentions have been given under Acknowledgements, regarding the official docs I referred to.
+<br><br>
+
+## License
+
 <br><br>
 
 ## Contributions
@@ -117,7 +122,7 @@ All the work presented in this repo is written and executed by me, starting from
 All contributions are welcome. This project is a basic usage of computer vision to solve a real-world problem. There is a lot of scope, specially in the model training part as a wide number of scenarios need to be trained; classes with low number of data has to be treated properly and some classes need to be trained with negatives (as far as I could think of) so that accuracy could increase, and much more. 
 <br>
 This is my first complex computer vision task that I undertook. Do give a ⭐️ if you like my work!
-
+<br><br>
 
 ## Acknowledgements
 
@@ -126,6 +131,3 @@ The below docs really helped me a lot. Whatever you think of performing, they wi
 - [Roboflow Image-Preprocessing](https://docs.roboflow.com/datasets/image-preprocessing)
 - [Supervision](https://supervision.roboflow.com/latest/detection/core/)
 <br><br>
-
-
-## License
