@@ -1,6 +1,6 @@
 
 <h1>Real Time Roadway Companion v1 (RTRCv1)
-<img src="https://github.com/AbilP20/RTRCv1/assets/114949809/ed87fa22-4887-4a04-9a47-3b14c4b47bf3" alt="GPLv3 License" width="75"/>
+<img src="https://github.com/AbilP20/RTRCv1/assets/114949809/ed87fa22-4887-4a04-9a47-3b14c4b47bf3" alt="GPLv3 License" width="50"/>
 </h1>
 <br>
 
@@ -93,7 +93,7 @@ _NOTE: The coordinates of the 2 zones (yellow and red zone - refer the demo) nee
 
 ## Results
 
-Measuring the inference speed on RTX 3050, all 3 models combined give an average speed ranging between 20-23 fps. On Tesla T4, the average was between 28-32 fps and on Tesla P100, the average speed ranged between 37-42 fps. For testing, I tested on 480p and 720p clips from the net. This traffic signs used in this project are used in European countries, so best results will be returned if tested on European videos. Due to copyright issues on good European videos, I have not put those clips, but I have tested personally on those videos which showed good outcomes. I have shared a small demo of both, model infernce and Heads-Up-Display creation using a free-to-use video clip.
+Measuring the inference speed on RTX 3050, all 3 models combined give an average speed ranging between 20-23 fps. On Tesla T4, the average was between 28-32 fps and on Tesla P100, the average speed ranged between 37-42 fps. For testing, I tested on 480p and 720p clips from the net. The traffic signs used in this project are used in European countries, so best results will be returned if tested on Europe videos. Due to copyright issues on good Europe road videos, I have shared a small demo of both, model infernce and Heads-Up-Display creation using a free-to-use video clip.
 <br><br>
 
 ## Demo
