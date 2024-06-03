@@ -19,7 +19,7 @@ PNG_CROSSWALK = os.path.join(PNG_DIR, 'png_crosswalk' + '.png')
 PNG_PRIORITY_ROAD = os.path.join(PNG_DIR, 'png_priority_road' + '.png')
 PNG_SPEED_HUMP = os.path.join(PNG_DIR, 'png_speed_hump' + '.png')
 PNG_YIELD = os.path.join(PNG_DIR, 'png_yield' + '.png')
-PNG_RED_LIGHT = os.path.join(PNG_DIR, 'png_red_light1' + '.png')
+PNG_TRAFFIC_LIGHT = os.path.join(PNG_DIR, 'png_traffic_light' + '.png')
 PNG_NO_ENTRY  = os.path.join(PNG_DIR, 'png_no_entry' + '.png')
 PNG_CAR_VICINITY = os.path.join(PNG_DIR, 'png_car_vicinity' + '.png')
 PNG_CAR_CLOSEBY = os.path.join(PNG_DIR, 'png_car_closeby' + '.png')
@@ -30,6 +30,9 @@ HUD_BG = os.path.join(PNG_DIR, 'bg' + '.png')
 
 # Model Directory
 MODEL_DIR = os.path.join(CUR_DIR,'data', 'models')
+MODEL_DET = os.path.join(MODEL_DIR, "det.pt")
+MODEL_SEG = os.path.join(MODEL_DIR, "seg.pt")
+MODEL_CLS = os.path.join(MODEL_DIR, "cls.pt")
 
 # Video Directory
 VID_PATH = os.path.join(CUR_DIR,'data', 'vids')
