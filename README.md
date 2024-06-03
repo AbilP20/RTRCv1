@@ -86,8 +86,8 @@ python src/run.py --source 0 --device 0 --conf 0.5 --start 10 --end 1000 --save 
 `--source` : source video path - either pass the video path or put a group of videos inside data/vids and then pass video index number; default = 0<br>
 `--device` : device id - cuda device i.e. 0,1,2,.. or 'cpu'; default = 0<br>
 `--conf` : confidence parameter of YOLO models - default = 0.5; range = [0, 1]<br>
-`--start` : starting frame from where predictions should begin; default = 0, i.e. from the beginning
-`--end` : ending frame where predictions should stop; default = -1, i.e. till the last available frame
+`--start` : starting frame from where predictions should begin; default = 0, i.e. from the beginning<br>
+`--end` : ending frame where predictions should stop; default = -1, i.e. till the last available frame<br>
 `--save` : saves the predictions inside runs/preds.txt if '1' or 'True' is passed; default = 0<br>
 `--show` : displays the predictions on console if '1' or 'True' is passed; default = 0<br><br>
 _NOTE: The coordinates of the 2 zones (yellow and red zone - refer the demo) needs to be changed for different camera perspectives, i.e if the same coordinates are used for every different camera perspective, then the zones may not be properly aligned with the roads and then the detections for nearby and in-vicinty vehicles and pedestrians will come out wrong._ 
