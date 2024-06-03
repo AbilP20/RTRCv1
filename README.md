@@ -123,7 +123,7 @@ This software is licensed under the GNU General Public License v3.0 (GPLv3). See
 
 ## Contributions
 
-All contributions are welcome. This project is a basic usage of computer vision to solve a real-world problem. There is a lot of scope, specially in the model training part as a wide number of scenarios need to be trained; classes with low number of data has to be treated properly and some classes need to be trained with negatives (as far as I could think of) so that accuracy could increase, and much more. 
+All contributions are welcome. This project is a simple application of computer vision to solve a real-world problem. There is a lot of scope, specially in the model training part as a wide number of scenarios need to be trained; classes with low number of data has to be treated properly and some classes need to be trained with negatives (as far as I could think of) so that accuracy could increase, and much more. 
 <br>
 This is my first complex computer vision task that I undertook. Do give a ⭐️ if you like my work!
 <br><br>
